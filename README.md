@@ -215,23 +215,4 @@ Power BI | DAX | Data Analyst | Faculty
 
 This repository is designed as a **complete DAX Learning & Practice System**, focused on **context, performance, and real-world BI problem solving**, not just syntax.
 
-⭐ If this repository helps you, consider starring it!
 
-<!-- ========================================================= -->
-
-<!-- ========== ADVANCED DAX – LEARNING & PRACTICE HUB ======== -->
-
-<!-- ========================================================= -->
-
-```
-
----
-
-If you want, I can also:
-- Create a **folder-wise practice roadmap**
-- Design **real business DAX case studies**
-- Add **Beginner → Advanced DAX exercises**
-- Optimize this for **Power BI portfolio showcase**
-
-Just tell me 👍
-```
